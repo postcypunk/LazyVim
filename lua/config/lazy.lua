@@ -15,6 +15,7 @@ require("lazy").setup({
     { import = "plugins/dap" },
     { import = "plugins/unity" },
     { import = "plugins/ai" },
+    { import = "plugins/nixos" },
   },
   defaults = {
     lazy = false,
